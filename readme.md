@@ -13,7 +13,6 @@
 * 🎯 Rotazioni 3D fluide attorno al centro
 * 📀 HUD tecnico con inclinazioni in gradi e dimensioni attuali
 * 💡 Effetto "arcobaleno simultaneo" per impatto artistico
-* 🔧 Scrittura professionale OOP in Python
 
 ---
 
