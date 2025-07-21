@@ -1,27 +1,28 @@
-# 🌀 Cubo 3D Dinamico - VPython Art Simulation
+
+# 🌀 Dynamic 3D Cube – VPython Art Simulation
 
 ![Screenshot](screenshot.png)
 
-**Cubo 3D Dinamico** è un'esperienza visuale animata in tempo reale scritta in Python con VPython: un cubo principale composto da cubetti rotanti indipendenti, che pulsano, ruotano e si colorano ad arcobaleno in perfetta armonia. Il tutto è accompagnato da un **HUD tecnico animato** che mostra inclinazione, dimensioni e numero di cubi in stile CAD.
+**Dynamic 3D Cube** is a real-time animated visual experience written in Python using VPython: a main cube made of smaller rotating units that pulse, spin, and glow in rainbow harmony. All of this is complemented by a **technical animated HUD** displaying angles, dimensions, and cube count – like a mini CAD system.
 
 ---
 
-## 🎨 Caratteristiche
+## 🎨 Features
 
-* ✅ Cubo composto da cubetti indipendenti e animati
-* 🌈 Colori dinamici e pulsazione ritmica
-* 🎯 Rotazioni 3D fluide attorno al centro
-* 📀 HUD tecnico con inclinazioni in gradi e dimensioni attuali
-* 💡 Effetto "arcobaleno simultaneo" per impatto artistico
+* ✅ Main cube composed of independently animated mini-cubes
+* 🌈 Dynamic colors and rhythmic pulsing
+* 🎯 Smooth 3D rotations around the central axis
+* 📀 Technical HUD showing angles (in degrees) and live dimensions
+* 💡 "Simultaneous rainbow" effect for visual impact
 
 ---
 
-## 📦 Requisiti
+## 📦 Requirements
 
-* Python 3.7 o superiore
+* Python 3.7 or higher
 * [VPython](https://pypi.org/project/vpython/)
 
-Installa tutto con:
+Install dependencies with:
 
 ```bash
 pip install vpython
@@ -29,15 +30,15 @@ pip install vpython
 
 ---
 
-## 🚀 Avvio
+## 🚀 Getting Started
 
-Esegui direttamente lo script:
+Run the script directly:
 
 ```bash
 python cubo_art.py
 ```
 
-Puoi forzare la modalità "senza browser" modificando il file:
+To force **"no browser"** mode, edit the script like this:
 
 ```python
 import os
@@ -46,35 +47,36 @@ os.environ['WEBVPYTHON'] = 'nobrowser'
 
 ---
 
-## 🖼️ Anteprima
-![Screenshot del cubo](screenshot.png)
-Tutti i cubi presenti in questa simulazione sono attori professionisti. Qualsiasi distorsione, rotazione o esplosione cromatica è stata eseguita in un ambiente controllato. Nessun cubo è stato ferito nel corso dell’animazione. 🎬
+## 🖼️ Preview
 
----
-Licenza: **Creative Commons CC0 (pubblico dominio)**
-Autore: [Pietro Marchetta (iz2rp)](https://github.com/iz2rp)
-Anno: 2025
+![Cube screenshot](screenshot.png)
+
+All cubes in this simulation are trained professionals. Any distortion, rotation, or color explosion was performed in a controlled environment. No cubes were harmed during the animation. 🎬
 
 ---
 
-## 📄 Licenza
+## 📄 License
 
-Questo progetto è distribuito sotto licenza **MIT**.
+This project is released under the **MIT License**.
 
-Puoi:
+You are free to:
 
-* Usarlo liberamente
-* Studiare e modificarlo
-* Condividerlo e integrarlo in altri progetti, anche commerciali
-
----
-
-## 🤝 Ringraziamenti
-
-* Ispirato ai lavori artistici di **Alexandre B A Villares**
-* Realizzato con amore nerd da Pietro, tra una sessione di Python, RAEE e 3D printing e giocando con mio figlio.
+* Use it for any purpose
+* Study and modify it
+* Share and integrate it into other (even commercial) projects
 
 ---
 
-> 🧠 “La matematica incontra la luce: ogni cubo danza, ogni colore respira. Arte computazionale, ma con cuore.”
-> — *Anonimo*
+## 🤝 Acknowledgments
+
+* Inspired by the artistic work of **Alexandre B A Villares**
+* Crafted with nerdy love by Pietro, between Python sessions, WEEE hacking, 3D printing, and playing with my son.
+
+---
+
+> 🧠 "Mathematics meets light: every cube dances, every color breathes. Computational art, with heart."
+> — *Anonymous*
+
+
+
+
