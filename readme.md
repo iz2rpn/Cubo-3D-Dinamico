@@ -1,8 +1,6 @@
 
 # 🌀 Dynamic 3D Cube – VPython Art Simulation
 
-![Screenshot](screenshot.png)
-
 **Dynamic 3D Cube** is a real-time animated visual experience written in Python using VPython: a main cube made of smaller rotating units that pulse, spin, and glow in rainbow harmony. All of this is complemented by a **technical animated HUD** displaying angles, dimensions, and cube count – like a mini CAD system.
 
 ---
